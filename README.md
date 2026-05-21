@@ -241,6 +241,8 @@ The GUI supports:
 - Copy results.
 - Export results as TXT, CSV, or JSON.
 
+<img width="2344" height="1418" alt="Screenshot 2026-05-21 125918" src="https://github.com/user-attachments/assets/d6f7a536-9c71-4ef6-818c-da63a8b056e5" />
+
 ## GUI troubleshooting workflow
 
 For checking why one save behaves differently from another:
